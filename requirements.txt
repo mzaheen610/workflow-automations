@@ -1,0 +1,7 @@
+pyautogui
+requests
+schedule
+python-dotenv
+pillow
+pyscreeze
+telebot
